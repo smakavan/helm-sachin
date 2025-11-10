@@ -3,12 +3,12 @@ entries:
   demochart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-10T21:15:15.257317123+05:30"
+    created: "2025-11-10T21:40:04.934017989+05:30"
     description: A Helm chart for Kubernetes
     digest: 52c0affac8c626a1ae2d5bba0a6d2adc48aab80b51f50c0dc575e10e4f5ee261
     name: demochart
     type: application
     urls:
-    - https://smakavan.github.io/test-sachin/demochart-0.1.0.tgz
+    - https://smakavan.github.io/helm-sachin/demochart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-10T21:15:15.248405659+05:30"
+generated: "2025-11-10T21:40:04.897806403+05:30"
